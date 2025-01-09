@@ -2,9 +2,6 @@
 
 - 🔭 I’m currently working on improve my programming skills
 - 🌱 I’m currently learning C language
-<!--- 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for <!-- help with --> a programming partner 
-- 💬 Ask me about my day
 - 📫 How to reach me: no one knows
 
 ## 💻 Tech Stack:
