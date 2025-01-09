@@ -19,8 +19,4 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MiguelAngel861&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelAngel861&theme=transparent&hide_border=false)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
