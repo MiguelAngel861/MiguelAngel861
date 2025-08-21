@@ -5,9 +5,9 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=MiguelAngel861&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" style="margin-right: 100px;"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=tokyonight&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel861&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MiguelAngel861&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" style="margin-right: 100px;"  width="350"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=tokyonight&hide_border=false"  width="385"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel861&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="300"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
