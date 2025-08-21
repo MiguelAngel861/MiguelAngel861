@@ -1,6 +1,11 @@
+<p align="center">
+<img src='image.jpg' width="50%" height="50%" style="position:absolute"/>
+</p>
+
+---
+
 # 💻 Tech Stack:
 <div align="center">
-
 <!-- Lenguajes -->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin: 3px;"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin: 3px;"/>
