@@ -1,4 +1,4 @@
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <div align="center">
 
 <!-- Lenguajes -->
@@ -27,7 +27,7 @@
 
 </div>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 <div align="center">
 
 
