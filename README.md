@@ -1,9 +1,3 @@
-<p align="center">
-<img src='image.jpg' width="50%" height="50%" style="position:absolute"/>
-</p>
-
----
-
 # 💻 Tech Stack:
 <div align="center">
 <!-- Lenguajes -->
@@ -41,3 +35,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
+
+---
+
+<p align="center">
+<img src='image.jpg' width="50%" height="50%" style="position:absolute"/>
+</p>
