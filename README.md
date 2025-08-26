@@ -1,7 +1,11 @@
 # MiguelAngel861 👋
- My name is Miguel Angel Scott, and I love music, read mangas and do programming stuff. I always try to do my best
-<img src='whatYouTookFromMe.jpg' width="20%" height="20%" align="center"/>
+<p align="center">My name is Miguel Angel Scott, and I love music, read mangas and do programming stuff. I always try to do my best</p>
 
+<p align="center">
+<img src='https://i.pinimg.com/1200x/63/51/fc/6351fca29a26fe75902dacc8b4a5c788.jpg' width="30%" height="30%" style="position:absolute;"/>
+<img src='whatYouTookFromMe.jpg' width="30%" height="30%" style="position:absolute"/>
+<img src='https://i.pinimg.com/1200x/79/6d/6b/796d6b0005258f51cb089856440d57c0.jpg' width="30%" height="30%" style="position:absolute;"/>
+</p>
 ## 💻 Tech Stack
 <div align="center">
 <!-- Lenguajes -->
