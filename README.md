@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-<img src='https://tse1.mm.bing.net/th/id/OIP.5fUX9wZk96krrcha5zW5zgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3' width="50%" height="50%" style="position:absolute"/>
+<img src='image.jpg' width="50%" height="50%" style="position:absolute"/>
 </p>
