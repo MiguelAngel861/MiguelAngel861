@@ -1,4 +1,7 @@
-# Hi, my Name is MiguelAngel861! 👋
+# MiguelAngel861 👋
+My name is Miguel Angel Scott, and I love music and programming stuff
+
+
 ## 💻 Tech Stack
 <div align="center">
 <!-- Lenguajes -->
