@@ -6,6 +6,7 @@
 <img src='whatYouTookFromMe.jpg' width="30%" height="30%" style="position:absolute"/>
 <img src='https://i.pinimg.com/1200x/79/6d/6b/796d6b0005258f51cb089856440d57c0.jpg' width="30%" height="30%" style="position:absolute;"/>
 </p>
+
 ## 💻 Tech Stack
 <div align="center">
 <!-- Lenguajes -->
