@@ -1,5 +1,5 @@
 # MiguelAngel861 👋
-<p align="center">My name is Miguel Angel Scott, and I love music, read mangas and do programming stuff. I always try to do my best</p>
+<p align="center">My name is Miguel Angel Scott, and I love music, read manga and do programming stuff. I always try to do my best</p>
 
 <p align="center">
 <img src='https://i.pinimg.com/1200x/63/51/fc/6351fca29a26fe75902dacc8b4a5c788.jpg' width="30%" height="30%" style="position:absolute;"/>
