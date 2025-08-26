@@ -1,5 +1,5 @@
 # MiguelAngel861 👋
-My name is Miguel Angel Scott, and I love music and programming stuff
+My name is Miguel Angel Scott, and I love music, read mangas and do programming stuff. I always try to do my best
 
 
 ## 💻 Tech Stack
