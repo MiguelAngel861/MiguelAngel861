@@ -1,4 +1,4 @@
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
 <!-- Lenguajes -->
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin: 3px;"/>
@@ -26,7 +26,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
 
 
