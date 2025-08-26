@@ -1,6 +1,6 @@
 # MiguelAngel861 👋
-
-<img src='whatYouTookFromMe.jpg' width="20%" height="20%" align="left"/>
+ My name is Miguel Angel Scott, and I love music, read mangas and do programming stuff. I always try to do my best
+<img src='whatYouTookFromMe.jpg' width="20%" height="20%" align="center"/>
 
 ## 💻 Tech Stack
 <div align="center">
