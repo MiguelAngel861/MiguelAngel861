@@ -7,6 +7,8 @@
 <img src='https://i.pinimg.com/1200x/79/6d/6b/796d6b0005258f51cb089856440d57c0.jpg' width="30%" height="30%" style="position:absolute;"/>
 </p>
 
+🌱 I’m currently learning Python
+
 ## 💻 Tech Stack
 <div align="center">
 <!-- Lenguajes -->
@@ -41,7 +43,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MiguelAngel861&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" style="margin-right: 100px;"  width="350"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=tokyonight&hide_border=false"  width="385"/><br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
