@@ -41,7 +41,6 @@
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MiguelAngel861&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" style="margin-right: 100px;"  width="350"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=tokyonight&hide_border=false"  width="385"/><br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
