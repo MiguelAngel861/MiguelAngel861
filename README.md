@@ -7,8 +7,9 @@
 <img src='https://i.pinimg.com/1200x/79/6d/6b/796d6b0005258f51cb089856440d57c0.jpg' width="30%" height="30%" style="position:absolute;"/>
 </p>
 
-🌱 I’m still learning Python <br/>
-🔭 I’m currently working on BareDo
+<p>🌱 I’m still learning Python <br>
+🔭 I’m currently working on BareDo </p>
+<br/>
 
 ## 💻 Tech Stack
 <div align="center">
@@ -34,11 +35,14 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin: 3px;"/>
 </div>
 
+<br/>
+
 ## 📊 GitHub Stats:
 
-<br/> <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=ayu-mirage&hide_border=false"/> <br/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=vue&hide_border=false"/> <br/>
 </div>
+<br/> 
 
 ---
 
