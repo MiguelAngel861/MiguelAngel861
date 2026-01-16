@@ -46,8 +46,11 @@
 
 ---
 
-<br/>
-
-<p align="center">
-<img src='image.jpg' width="50%" height="50%" style="position:absolute"/>
-</p>
+<div align="center">
+  <p>
+    <i>"add some text here"</i>
+  </p>
+  
+  <img src='image.jpg' width="50%" height="50%" style="position:absolute"/>
+</div>
+<br/> 
