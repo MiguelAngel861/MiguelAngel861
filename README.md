@@ -34,10 +34,14 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin: 3px;"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin: 3px;"/>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="margin: 3px;"/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=MiguelAngel861&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngel861&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=MiguelAngel861&theme=dark&hide_border=false"/> <br/>
+</div>
+
 ---
 
 <p align="center">
